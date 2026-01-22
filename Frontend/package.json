@@ -1,7 +1,7 @@
 {
   "name": "citadel",
   "version": "0.1.0",
-  "homepage": "https://citadel.tech.purim.lv",
+  "homepage": "https://citadel.tools.purim.lv",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.14.0",
