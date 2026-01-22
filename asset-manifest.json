@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f16fe482.css",
+    "main.js": "/static/js/main.753d8b1a.js",
+    "static/media/starfort.svg": "/static/media/starfort.fc33d4d9f0a02d50eb1b023c1068d5f1.svg",
+    "index.html": "/index.html",
+    "main.f16fe482.css.map": "/static/css/main.f16fe482.css.map",
+    "main.753d8b1a.js.map": "/static/js/main.753d8b1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f16fe482.css",
+    "static/js/main.753d8b1a.js"
+  ]
+}
